@@ -29,7 +29,7 @@ Party Match is all about fun and connection! 🎉 During your party, participant
 ### Other Tools
 - **Git**: 🔧 For version control and collaboration.
 - **Node.js & npm**: 🛠️ To manage frontend dependencies.
-- **Maven/Gradle**: 📦 For managing and building backend dependencies.
+- **Maven**: 📦 For managing and building backend dependencies.
 
 ## 🚀 Features
 - **Questionnaire System**: 📋 Participants answer fun and engaging questions.
@@ -42,7 +42,7 @@ Party Match is all about fun and connection! 🎉 During your party, participant
 - Node.js (v14 or above) 🧑‍💻
 - npm (v6 or above) 📦
 - Java (JDK 11 or above) ☕️
-- Maven or Gradle 🔧
+- Maven 🔧
 
 ### Frontend Setup
 1. Clone the repository:
@@ -71,10 +71,6 @@ Party Match is all about fun and connection! 🎉 During your party, participant
 2. Build the project:
     ```bash
     mvn clean install
-    ```
-    or
-    ```bash
-    gradle build
     ```
 3. Run the Spring Boot application:
     ```bash
