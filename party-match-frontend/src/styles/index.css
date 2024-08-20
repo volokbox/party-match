@@ -7,10 +7,15 @@ body {
     "Comfortaa", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(14, 14, 14);
+  background-color: rgb(26, 26, 26);
+  /* background-color: white; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.menu-appbar {
+  background-color: rgb(14, 14, 14);
 }
